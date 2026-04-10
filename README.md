@@ -78,7 +78,7 @@ mtl-pcgrad-project/
 
 ```
 git clone https://github.com/Kusubhavani/Implement-a-Multi-Task-Learning-Model-with-Gradient-Surgery-using-TensorFlow-and-Streamlit.git
-cd Implement a Multi-Task Learning Model with Gradient Surgery using TensorFlow and Streamlit
+cd Implement-a-Multi-Task-Learning-Model-with-Gradient-Surgery-using-TensorFlow-and-Streamlit
 ```
 
 ### 2. Install dependencies

@@ -1,0 +1,15 @@
+Model: "multi_task_model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ sequential (Sequential)     (None, 32)                3040      
+                                                                 
+ sequential_1 (Sequential)   (None, 1)                 545       
+                                                                 
+ sequential_2 (Sequential)   (None, 1)                 545       
+                                                                 
+=================================================================
+Total params: 4130 (16.13 KB)
+Trainable params: 4002 (15.63 KB)
+Non-trainable params: 128 (512.00 Byte)
+_________________________________________________________________

@@ -37,7 +37,8 @@ Occurs when gradients from different tasks point in opposite directions.
 Resolves gradient conflicts by projecting gradients to avoid interference.
 
 ---
-
+## Demo Link:
+https://drive.google.com/file/d/1X3uZ3J9PNLKWPijM_qIwAhFT62BCcVCy/view?usp=drive_link
 ##  Project Structure
 
 ```
